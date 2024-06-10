@@ -1,0 +1,61 @@
+Um die Tabelle in das gleiche Format zu kopieren und zu verwenden, kannst du den folgenden Markdown-Code verwenden. Wenn du den Code in einen Markdown-Editor, einen unterstützten Texteditor wie Visual Studio Code, oder direkt in eine Plattform wie GitHub oder Jupyter Notebook einfügst, bleibt das Format erhalten.
+
+```markdown
+### Lernplan: 07.06. - 25.07.
+
+| Datum        | Sensorik           | Chemie            | Internationale Weinprofile | Unternehmensmanagement | Kosten- und Leistungsrechnung | Weinmärkte der Welt | Lebensmittel- und Weinrecht |
+|--------------|--------------------|-------------------|----------------------------|------------------------|------------------------------|---------------------|-----------------------------|
+| **07.06.**   | Einführung, Grundbegriffe (2h) | Einführung, Grundbegriffe (2h) | -                          | -                      | -                            | -                   | -                           |
+| **08.06.**   | Einführung, Grundbegriffe (2h) | Einführung, Grundbegriffe (2h) | -                          | -                      | -                            | -                   | -                           |
+| **09.06.**   | Einführung, Grundbegriffe (2h) | Einführung, Grundbegriffe (2h) | -                          | -                      | -                            | -                   | -                           |
+| **10.06.**   | Vertiefung der Hauptthemen (2h) | Vertiefung der Hauptthemen (2h) | Einführung, Grundbegriffe (1h) | -                      | -                            | -                   | -                           |
+| **11.06.**   | Vertiefung der Hauptthemen (2h) | Vertiefung der Hauptthemen (2h) | Einführung, Grundbegriffe (1h) | -                      | -                            | -                   | -                           |
+| **12.06.**   | Vertiefung der Hauptthemen (2h) | Vertiefung der Hauptthemen (2h) | Einführung, Grundbegriffe (1h) | -                      | -                            | -                   | -                           |
+| **13.06.**   | Vertiefung der Hauptthemen (2h) | Vertiefung der Hauptthemen (2h) | Einführung, Grundbegriffe (1h) | -                      | -                            | -                   | -                           |
+| **14.06.**   | Vertiefung der Hauptthemen (2h) | Vertiefung der Hauptthemen (2h) | Einführung, Grundbegriffe (1h) | -                      | -                            | -                   | -                           |
+| **15.06.**   | Vertiefung der Hauptthemen (2h) | Vertiefung der Hauptthemen (2h) | Einführung, Grundbegriffe (1h) | -                      | -                            | -                   | -                           |
+| **16.06.**   | Vertiefung der Hauptthemen (2h) | Vertiefung der Hauptthemen (2h) | Einführung, Grundbegriffe (1h) | -                      | -                            | -                   | -                           |
+| **17.06.**   | Fortsetzung der Vertiefung (1h) | Fortsetzung der Vertiefung (1h) | Vertiefung der Themen (2h)     | Einführung, Grundbegriffe (1h) | -                            | -                   | -                           |
+| **18.06.**   | Fortsetzung der Vertiefung (1h) | Fortsetzung der Vertiefung (1h) | Vertiefung der Themen (2h)     | Einführung, Grundbegriffe (1h) | -                            | -                   | -                           |
+| **19.06.**   | Fortsetzung der Vertiefung (1h) | Fortsetzung der Vertiefung (1h) | Vertiefung der Themen (2h)     | Einführung, Grundbegriffe (1h) | -                            | -                   | -                           |
+| **20.06.**   | Fortsetzung der Vertiefung (1h) | Fortsetzung der Vertiefung (1h) | Vertiefung der Themen (2h)     | Einführung, Grundbegriffe (1h) | -                            | -                   | -                           |
+| **21.06.**   | Fortsetzung der Vertiefung (1h) | Fortsetzung der Vertiefung (1h) | Vertiefung der Themen (2h)     | Einführung, Grundbegriffe (1h) | -                            | -                   | -                           |
+| **22.06.**   | Fortsetzung der Vertiefung (1h) | Fortsetzung der Vertiefung (1h) | Vertiefung der Themen (2h)     | Einführung, Grundbegriffe (1h) | -                            | -                   | -                           |
+| **23.06.**   | Fortsetzung der Vertiefung (1h) | Fortsetzung der Vertiefung (1h) | Vertiefung der Themen (2h)     | Einführung, Grundbegriffe (1h) | -                            | -                   | -                           |
+| **24.06.**   | Wiederholung, Tests (1h)     | Wiederholung, Tests (1h)     | Fallstudien, Beispielweine (2h)  | Vertiefung der Theorien (2h) | Einführung, Grundbegriffe (1h) | -                   | -                           |
+| **25.06.**   | Wiederholung, Tests (1h)     | Wiederholung, Tests (1h)     | Fallstudien, Beispielweine (2h)  | Vertiefung der Theorien (2h) | Einführung, Grundbegriffe (1h) | -                   | -                           |
+| **26.06.**   | Wiederholung, Tests (1h)     | Wiederholung, Tests (1h)     | Fallstudien, Beispielweine (2h)  | Vertiefung der Theorien (2h) | Einführung, Grundbegriffe (1h) | -                   | -                           |
+| **27.06.**   | Wiederholung, Tests (1h)     | Wiederholung, Tests (1h)     | Fallstudien, Beispielweine (2h)  | Vertiefung der Theorien (2h) | Einführung, Grundbegriffe (1h) | -                   | -                           |
+| **28.06.**   | Wiederholung, Tests (1h)     | Wiederholung, Tests (1h)     | Fallstudien, Beispielweine (2h)  | Vertiefung der Theorien (2h) | Einführung, Grundbegriffe (1h) | -                   | -                           |
+| **29.06.**   | Wiederholung, Tests (1h)     | Wiederholung, Tests (1h)     | Fallstudien, Beispielweine (2h)  | Vertiefung der Theorien (2h) | Einführung, Grundbegriffe (1h) | -                   | -                           |
+| **30.06.**   | Wiederholung, Tests (1h)     | Wiederholung, Tests (1h)     | Fallstudien, Beispielweine (2h)  | Vertiefung der Theorien (2h) | Einführung, Grundbegriffe (1h) | -                   | -                           |
+| **01.07.**   | Intensive Wiederholung (1h) | Intensive Wiederholung (1h) | Klausurvorbereitung (1h)       | Vertiefung, Fallstudien (1h) | Vertiefung, Übungen (2h)       | Einführung, Grundbegriffe (1h) | -                           |
+| **02.07.**   | Intensive Wiederholung (1h) | Intensive Wiederholung (1h) | Klausurvorbereitung (1h)       | Vertiefung, Fallstudien (1h) | Vertiefung, Übungen (2h)       | Einführung, Grundbegriffe (1h) | -                           |
+| **03.07.**   | Intensive Wiederholung (1h) | Intensive Wiederholung (1h) | Klausurvorbereitung (1h)       | Vertiefung, Fallstudien (1h) | Vertiefung, Übungen (2h)       | Einführung, Grundbegriffe (1h) | -                           |
+| **04.07.**   | Intensive Wiederholung (1h) | Intensive Wiederholung (1h) | Klausurvorbereitung (1h)       | Vertiefung, Fallstudien (1h) | Vertiefung, Übungen (2h)       | Einführung, Grundbegriffe (1h) | -                           |
+| **05.07.**   | Intensive Wiederholung (1h) | Intensive Wiederholung (1h) | Klausurvorbereitung (1h)       | Vertiefung, Fallstudien (1h) | Vertiefung, Übungen (2h)       | Einführung, Grundbegriffe (1h) | -                           |
+| **06.07.**   | Intensive Wiederholung (1h) | Intensive Wiederholung (1h) | Klausurvorbereitung (1h)       | Vertiefung, Fallstudien (1h) | Vertiefung, Übungen (2h)       | Einführung, Grundbegriffe (1h) | -                           |
+| **07.07.**   | Intensive Wiederholung (1h) | Intensive Wiederholung (1h) | Klausurvorbereitung (1h)       | Vertiefung, Fallstudien (1h) | Vertiefung, Übungen
+
+ (2h)       | Einführung, Grundbegriffe (1h) | -                           |
+| **08.07.**   | Letzte Wiederholung (1h)    | Letzte Wiederholung (1h)    | Übungsaufgaben, Tests (2h)      | Vertiefung, Übungen (2h)      | Übungsaufgaben, Tests (2h)      | Vertiefung der Märkte (1h) | Einführung, Grundbegriffe (1h) |
+| **09.07.**   | Letzte Wiederholung (1h)    | Letzte Wiederholung (1h)    | Übungsaufgaben, Tests (2h)      | Vertiefung, Übungen (2h)      | Übungsaufgaben, Tests (2h)      | Vertiefung der Märkte (1h) | Einführung, Grundbegriffe (1h) |
+| **10.07.**   | Letzte Wiederholung (1h)    | Letzte Wiederholung (1h)    | Übungsaufgaben, Tests (2h)      | Vertiefung, Übungen (2h)      | Übungsaufgaben, Tests (2h)      | Vertiefung der Märkte (1h) | Einführung, Grundbegriffe (1h) |
+| **11.07.**   | Letzte Wiederholung (1h)    | Letzte Wiederholung (1h)    | Übungsaufgaben, Tests (2h)      | Vertiefung, Übungen (2h)      | Übungsaufgaben, Tests (2h)      | Vertiefung der Märkte (1h) | Einführung, Grundbegriffe (1h) |
+| **12.07.**   | Letzte Wiederholung (1h)    | Letzte Wiederholung (1h)    | Übungsaufgaben, Tests (2h)      | Vertiefung, Übungen (2h)      | Übungsaufgaben, Tests (2h)      | Vertiefung der Märkte (1h) | Einführung, Grundbegriffe (1h) |
+| **13.07.**   | Letzte Wiederholung (1h)    | Letzte Wiederholung (1h)    | Übungsaufgaben, Tests (2h)      | Vertiefung, Übungen (2h)      | Übungsaufgaben, Tests (2h)      | Vertiefung der Märkte (1h) | Einführung, Grundbegriffe (1h) |
+| **14.07.**   | Letzte Wiederholung (1h)    | Letzte Wiederholung (1h)    | Übungsaufgaben, Tests (2h)      | Vertiefung, Übungen (2h)      | Übungsaufgaben, Tests (2h)      | Vertiefung der Märkte (1h) | Einführung, Grundbegriffe (1h) |
+| **15.07.**   | Letzte Wiederholung (2h)    | Letzte Wiederholung (2h)    | Übungsaufgaben, Tests (2h)      | Letzte Wiederholung (2h)      | Letzte Wiederholung (2h)        | Letzte Wiederholung (1h)   | Vertiefung der Themen (1h) |
+| **16.07.**   | **Klausur: 16.07.**         | Letzte Wiederholung (2h)    | -                              | -                        | Letzte Wiederholung (2h)        | Letzte Wiederholung (1h)   | Vertiefung der Themen (1h) |
+| **17.07.**   | -                          | **Klausur: 17.07.**         | Letzte Wiederholung (2h)       | -                        | Letzte Wiederholung (2h)        | Letzte Wiederholung (1h)   | Vertiefung der Themen (1h) |
+| **18.07.**   | -                          | -                          | **Klausur: 18.07.**            | Letzte Wiederholung (2h)      | Letzte Wiederholung (2h)        | Letzte Wiederholung (1h)   | Vertiefung der Themen (1h) |
+| **19.07.**   | -                          | -                          | -                              | **Klausur: 19.07.**           | Letzte Wiederholung (2h)        | Letzte Wiederholung (1h)   | Vertiefung der Themen (1h) |
+| **20.07.**   | -                          | -                          | -                              | -                        | Letzte Wiederholung (2h)        | Vertiefung der Märkte (3h) | Vertiefung der Themen (1h) |
+| **21.07.**   | -                          | -                          | -                              | -                        | Letzte Wiederholung (2h)        | Letzte Wiederholung (2h)   | Vertiefung der Themen (1h) |
+| **22.07.**   | -                          | -                          | -                              | -                        | **Klausur: 22.07.**             | Letzte Wiederholung (2h)   | Vertiefung der Themen (1h) |
+| **23.07.**   | -                          | -                          | -                              | -                        | -                            | **Klausur: 23.07.**        | Letzte Wiederholung (2h)   |
+| **24.07.**   | -                          | -                          | -                              | -                        | -                            | -                     | Letzte Wiederholung (3h)   |
+| **25.07.**   | -                          | -                          | -                              | -                        | -                            | -                     | **Klausur: 25.07.**        |
+```
+
+Diesen Code kannst du in unterstützte Anwendungen einfügen und der Lernplan wird korrekt formatiert dargestellt. Viel Erfolg beim Lernen!
